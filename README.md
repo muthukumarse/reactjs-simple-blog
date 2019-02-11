@@ -21,7 +21,7 @@ as general
 - Redux 5
 - Redux Router 4
 - rest as per React Boilerplate
-- using jsonplaceholder.typicode.com as data
+- using https://jsonplaceholder.typicode.com as data
 
 ## How to explore
 
